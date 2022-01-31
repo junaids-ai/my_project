@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Achievers </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+		<div class="container">
+			<div><h1>Achievers</h1></div>
+
+			<ul id="achievers">
+				<li> Alpha</li>
+				<li> Beta</li>
+				<li>theta</li>
+				<a href="index.html"> go home</a>
+			</ul>
+</body>	</div>
+</html>
